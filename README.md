@@ -1,4 +1,4 @@
-### Hello there, would you like to save money on your purchaces. Good for you. Use this site.
+### hi 
 
 <!--
 **MSFRGUESTS/MSFRGUESTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
